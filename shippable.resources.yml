@@ -1,8 +1,8 @@
 resources:
   - name: sample-script
     type: gitRepo
-    integration: sreyaj-github
+    integration: github
     pointer:
-      sourceName: sreyaj/sample-script
+      sourceName: shiphitchcock24/sample-script
       branch: master
 
